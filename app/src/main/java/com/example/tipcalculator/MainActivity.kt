@@ -10,3 +10,5 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
     }
 }
+
+//This is to check if i am able to commit the update on github.
